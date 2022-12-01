@@ -1,0 +1,16 @@
+.checked{
+    background-image: url("image1/images.png");
+    background-size: 20px 20px;
+    background-repeat: no-repeat;
+    padding-left: 30px;
+}
+.unchecked{
+    background-image: url("image2/download.png");
+    background-size: 20px 20px;
+    background-repeat: no-repeat;
+    padding-left: 30px;
+}
+li{
+    list-style: none;
+
+}
